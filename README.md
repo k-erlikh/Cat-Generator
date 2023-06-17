@@ -1,5 +1,5 @@
 # CatGenerator
-"https://k-erlikh.github.io/CatGenerator/"
+"https://k-erlikh.github.io/Cat-Generator/"
 
 <div>Web application that generates random cat photo and fact.</div>
 
